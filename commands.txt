@@ -1,0 +1,8 @@
+- parse    This command require 1 arguments : <url> For example you can enter next command:
+           php console.php parse http://example.com/somepage or only example.com/somepage'
+
+- report   This command return info about scanned domains if info exists.
+           There are require 1 argument: <domain> For example you can enter next command:
+           php console.php report http://example.com or only example.com'
+
+- help     If you want to get info about all console commands you can enter next command: php console.php help

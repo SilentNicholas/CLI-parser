@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Commands\\": "Commands",
+      "Exception\\": "Exception",
+      "Helpers\\": "Helpers",
+      "Input\\": "Input",
+      "Output\\": "Output",
+      "Parser\\": "Parser",
+      "Saver\\": "Saver",
+      "Validate\\": "Validate"
+    }
+  }
+}
